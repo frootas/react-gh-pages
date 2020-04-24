@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React assa
+          Learn React fmnsdk
         </a>
       </header>
     </div>
